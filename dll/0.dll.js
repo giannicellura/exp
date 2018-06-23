@@ -31,7 +31,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"<header>\\n  <h5>\\n    This module is being loaded lazily.\\n\\n\\t\\t<div>Current Count: {{ counter | async }}</div>\\n    <button (click)=\\\"increment()\\\">Increment</button>\\n\\t\\t<button (click)=\\\"decrement()\\\">Decrement</button>\\n\\t\\t<button (click)=\\\"reset()\\\">Reset Counter</button>\\n  </h5>\\n</header>\"\n\n//# sourceURL=webpack://%5Bname%5D/./src/app/features/lazy/lazy.component.html?");
+eval("module.exports = \"<header>\\r\\n  <h5>\\r\\n    This module is being loaded lazily.\\r\\n\\r\\n\\t\\t<div>Current Count: {{ counter | async }}</div>\\r\\n    <button (click)=\\\"increment()\\\">Increment</button>\\r\\n\\t\\t<button (click)=\\\"decrement()\\\">Decrement</button>\\r\\n\\t\\t<button (click)=\\\"reset()\\\">Reset Counter</button>\\r\\n  </h5>\\r\\n</header>\"\n\n//# sourceURL=webpack://%5Bname%5D/./src/app/features/lazy/lazy.component.html?");
 
 /***/ }),
 
